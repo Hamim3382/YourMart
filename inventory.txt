@@ -1,0 +1,8 @@
+GRO01,Rice,55.00,kg,46
+GRO02,Dal,105.00,kg,49
+VEG01,Potato,25.00,kg,27
+VEG02,Onion,45.00,kg,34
+MEA01,Mutton,895.00,kg,19
+MEA02,Chicken,270.00,kg,28
+FIS01,Telapia,220.00,kg,18
+GRO03,Chips,15.00,pcs,27

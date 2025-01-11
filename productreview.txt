@@ -1,0 +1,18 @@
+ Username : Shadul
+ Product ID : GRO3
+ Feedback : The chips quantity is very low.
+
+ ------------------------------
+
+ Username : Kallol
+ Product ID : MEA1
+ Feedback : The mutton was good.
+
+ ------------------------------
+
+ Username : Tahmid
+ Product ID : GRO1
+ Feedback : Rice price was high
+
+ ------------------------------
+
